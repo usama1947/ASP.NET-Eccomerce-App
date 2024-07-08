@@ -4,17 +4,6 @@
 
 This application is a full-featured e-commerce platform built using ASP.NET Core. It includes features such as user authentication, product management, shopping cart, order processing, and payment integration.
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Configuration](#configuration)
-5. [Technologies Used](#technologies-used)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
-
 ## Features
 
 - User authentication and authorization
